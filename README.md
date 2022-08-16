@@ -1,10 +1,7 @@
 
 ## Hi👋, Nice meet you😊 
 
-I am Jaemyeong, I want to become a good developer and benefit the world. 
-
-
-
+I am Jaemyeong, I want to become a good back-end developer and benefit the world. 
 
 
 [![Instagram Badge](https://img.shields.io/badge/fa___jm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ljm9894/)](https://instagram.com/ljm9894)
