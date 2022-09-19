@@ -1,6 +1,5 @@
 
-## Hi👋, Nice meet you😊 
-
+## Hi
 I am Jaemyeong, I want to become a good back-end developer and benefit the world. 
 
 
