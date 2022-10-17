@@ -10,10 +10,10 @@ I am Jaemyeong, I want to become a good back-end developer and benefit the world
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node](https://badges.aleen42.com/src/node.svg)
+![JS](https://badges.aleen42.com/src/javascript.svg)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+
 
 
 
