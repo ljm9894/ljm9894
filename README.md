@@ -9,7 +9,7 @@ I am Jaemyeong, I want to become a good back-end developer and benefit the world
 
 
 ## ⚡ Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://badges.aleen42.com/src/python.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![JS](https://badges.aleen42.com/src/javascript.svg)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
