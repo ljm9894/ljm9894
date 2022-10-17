@@ -17,7 +17,6 @@ I am Jaemyeong, I want to become a good back-end developer and benefit the world
 
 
 
-
 <img width=40% src="https://github-readme-stats.vercel.app/api?username=ljm9894" /><img width=35%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljm9894&layout=compact" />
 ## 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ljm9894)
