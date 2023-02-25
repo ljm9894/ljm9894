@@ -4,7 +4,6 @@
 
 
 ## ⚡ Technologies
-![Python](https://badges.aleen42.com/src/python.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![JS](https://badges.aleen42.com/src/javascript.svg)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
