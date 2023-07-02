@@ -1,4 +1,6 @@
-# 🪪Developer working hard💪
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer%20working%20hard💪&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Back%20Developer&descAlignY=51&descAlign=62)
+
 
 ## 🎃My Page
 [![Instagram Badge](https://img.shields.io/badge/w_oaud-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/w_ouad/)](https://www.instagram.com/w_oaud/)
