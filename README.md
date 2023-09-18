@@ -1,7 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer%20working%20hard💪&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Back%20Developer&descAlignY=51&descAlign=62)
-
-
 ## 🎃My Page
 [![Instagram Badge](https://img.shields.io/badge/w_oaud-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/w_ouad/)](https://www.instagram.com/w_oaud/)
 [![Gmail Badge](https://img.shields.io/badge/-b01075589894@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b01075589894@gmail.com)](b01075589894@gmail.com)
@@ -15,8 +11,6 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   
