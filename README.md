@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
-   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=JPA&logoColor=white">
  </div>
 
 ## ⚒️ Tool
